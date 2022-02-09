@@ -1,0 +1,380 @@
+# English translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-02-09 12:20+0400\n"
+"PO-Revision-Date: 2022-02-09 12:22+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/other.py:12
+msgid "❌Действие отменено"
+msgstr "❌Action canceled"
+
+#: handlers/users/other.py:44
+msgid "❌Отмена"
+msgstr "❌Cancel"
+
+#: handlers/users/admin_panel/add_item.py:17 handlers/users/menu/products.py:40
+msgid "👔Одежда"
+msgstr "👔Clothes"
+
+#: handlers/users/admin_panel/add_item.py:19 handlers/users/menu/products.py:42
+msgid "🖥Электроника"
+msgstr "🖥Electronics"
+
+#: handlers/users/admin_panel/add_item.py:21 handlers/users/menu/products.py:44
+msgid "🏚Для дома"
+msgstr "🏚For home"
+
+#: handlers/users/admin_panel/add_item.py:26
+msgid "🔻Выберите <i>категорию</i>, куда вы хотите добавить новый товар:"
+msgstr "🔻Select the <i>category</i> where you want to add a new product:"
+
+#: handlers/users/admin_panel/add_item.py:38
+msgid "<b>Вы выбрали категорию:</b> "
+msgstr "<b>You have selected a category:</b> "
+
+#: handlers/users/admin_panel/add_item.py:39
+msgid "🔻Теперь введите <i>название товара</i>, который хотите добавить"
+msgstr "🔻Now enter the <i>product name</i> you want to add"
+
+#: handlers/users/admin_panel/add_item.py:56
+#: handlers/users/admin_panel/add_item.py:77
+#: handlers/users/admin_panel/add_item.py:106
+#: handlers/users/admin_panel/add_item.py:130
+msgid "🗂<b>Категория товара:</b> "
+msgstr "🗂<b>Product category:</b> "
+
+#: handlers/users/admin_panel/add_item.py:57
+#: handlers/users/admin_panel/add_item.py:78
+#: handlers/users/admin_panel/add_item.py:107
+#: handlers/users/admin_panel/add_item.py:131
+msgid "📃<b>Название товара:</b> "
+msgstr "📃<b>Product name:</b> "
+
+#: handlers/users/admin_panel/add_item.py:58
+msgid "🔻Пришлите мне <i>фотографию</i> товара или нажмите кнопку отмены"
+msgstr "🔻Send me a <i>photo</i> of the item or hit the cancel button"
+
+#: handlers/users/admin_panel/add_item.py:79
+msgid ""
+"🔻Пришлите мне <i>стоимость</i> товара в рублях(₽) или нажмите кнопку "
+"отмены"
+msgstr ""
+"🔻Send me the <i>cost</i> of the product in rubles (₽) or click the button"
+"cancellations"
+
+#: handlers/users/admin_panel/add_item.py:102
+msgid "❌Вы ввели неверное значение, введите число"
+msgstr "❌You entered an invalid value, please enter a number"
+
+#: handlers/users/admin_panel/add_item.py:108
+#: handlers/users/admin_panel/add_item.py:132
+msgid "💰<b>Стоимость товара:</b> "
+msgstr "💰<b>Product price:</b> "
+
+#: handlers/users/admin_panel/add_item.py:109
+msgid "🔻Добавить товар?"
+msgstr "🔻Add a product?"
+
+#: handlers/users/admin_panel/add_item.py:112
+msgid "Добавить"
+msgstr "Add"
+
+#: handlers/users/admin_panel/add_item.py:134
+msgid "✅<b>Товар успешно создан</b>"
+msgstr "✅<b>Product created successfully</b>"
+
+#: handlers/users/admin_panel/change_item.py:15
+msgid "*Режим администратора*:"
+msgstr "*Admin Mode*:"
+
+#: handlers/users/admin_panel/change_item.py:35
+msgid "📃Название"
+msgstr "📃Name"
+
+#: handlers/users/admin_panel/change_item.py:36
+msgid "💰Цена"
+msgstr "💰Price"
+
+#: handlers/users/admin_panel/change_item.py:37
+msgid "📷Фото"
+msgstr "📷Photo"
+
+#: handlers/users/admin_panel/change_item.py:49
+msgid "🔻Выберите, что хотите изменить:"
+msgstr "🔻Choose what you want to change:"
+
+#: handlers/users/admin_panel/change_item.py:63
+msgid "🔻Введите значение"
+msgstr "🔻Enter value"
+
+#: handlers/users/admin_panel/change_item.py:81
+msgid "✅<b>Товар успешно изменен</b>"
+msgstr "✅<b>Item changed successfully</b>"
+
+#: handlers/users/admin_panel/change_item.py:91
+msgid "🆗Да"
+msgstr "🆗Yes"
+
+#: handlers/users/admin_panel/change_item.py:92
+msgid "✖️Нет"
+msgstr "✖️No"
+
+#: handlers/users/admin_panel/change_item.py:97
+msgid "Вы уверены?"
+msgstr "Are you sure?"
+
+#: handlers/users/admin_panel/change_item.py:111
+msgid "✅<b>Товар успешно удален</b>"
+msgstr "✅<b>Product deleted successfully</b>"
+
+#: handlers/users/admin_panel/change_item.py:113
+msgid "🚫<b>Действие отменено</b>"
+msgstr "🚫<b>Action cancelled</b>"
+
+#: handlers/users/commands/help.py:9
+msgid ""
+"<b>📋Список команд:</b> \n"
+"\n"
+"/start - Начать диалог \n"
+"/help - Получить справку\n"
+"/menu - Отобразить кнопки меню\n"
+"\n"
+"<b>🌟Для администраторов:</b>\n"
+"\n"
+"/add_item - Добавить новый товар\n"
+"/change_item - Изменить товар"
+msgstr ""
+"<b>📋List of commands:</b> \n"
+"\n"
+"/start - Start dialog \n"
+"/help - Get help\n"
+"/menu - Display menu buttons\n"
+"\n"
+"<b>🌟Administrators:</b>\n"
+"\n"
+"/add_item - Add new item\n"
+"/change_item - Change item"
+
+#: handlers/users/commands/menu.py:11
+msgid "👤Профиль"
+msgstr "👤Profile"
+
+#: handlers/users/commands/menu.py:12
+msgid "📦Товары"
+msgstr "📦Products"
+
+#: handlers/users/commands/menu.py:13
+msgid "🆘Помощь"
+msgstr "🆘Help"
+
+#: handlers/users/commands/menu.py:14
+msgid "⚙️Настройки"
+msgstr "⚙️Settings"
+
+#: handlers/users/commands/menu.py:19
+msgid "*Главное меню:*"
+msgstr "*Main menu:*"
+
+#: handlers/users/menu/help.py:9
+msgid ""
+"🆘Раздел <b>Помощь</b>\n"
+"\n"
+"1. Как стать администратором? - В разделе <i>Настройки</i>\n"
+"2. Замена языка - В разделе <i>Настройки</i>\n"
+"3. Просмотр купленных товаров - В разделе <i>Профиль</i>\n"
+"4. Команды администратора - Команда /help"
+msgstr ""
+"🆘Section <b>Help</b>\n"
+"\n"
+"1. How to become an administrator? - Under <i>Settings</i>\n"
+"2. Change language - Under <i>Settings</i>\n"
+"3. View purchased items - Under <i>Profile</i>\n"
+"4. Administrator Commands - Command /help"
+
+#: handlers/users/menu/help.py:17
+msgid "✉️Связаться с менеджером"
+msgstr "✉️Contact manager"
+
+#: handlers/users/menu/products.py:51 handlers/users/menu/products.py:55
+msgid "*Категории товаров:*"
+msgstr "*Product Categories:*"
+
+#: handlers/users/menu/products.py:64
+msgid "<b>Категория:</b>"
+msgstr "<b>Category:</b>"
+
+#: handlers/users/menu/products.py:79 handlers/users/menu/products.py:122
+#: handlers/users/menu/products.py:147 handlers/users/menu/settings.py:45
+msgid "🔙Назад"
+msgstr "🔙Back"
+
+#: handlers/users/menu/products.py:106
+msgid "✏️Изменить"
+msgstr "✏️Change"
+
+#: handlers/users/menu/products.py:107
+msgid "🗑Удалить"
+msgstr "🗑Delete"
+
+#: handlers/users/menu/products.py:114
+msgid "💵Купить"
+msgstr "💵Buy"
+
+#: handlers/users/menu/products.py:141
+msgid "↗️Перейти к оплате"
+msgstr "↗️Proceed to payment"
+
+#: handlers/users/menu/products.py:142
+msgid "✔️Проверить оплату"
+msgstr "✔️Check payment"
+
+#: handlers/users/menu/products.py:162
+msgid "<b>✅Оплата прошла успешно!</b>"
+msgstr "<b>✅Payment was successful!</b>"
+
+#: handlers/users/menu/products.py:164
+msgid "❌Товар не оплачен"
+msgstr "❌ Item not paid"
+
+#: handlers/users/menu/profile.py:11
+msgid "👤Личные данные"
+msgstr "👤Personal data"
+
+#: handlers/users/menu/profile.py:12
+msgid "📜История покупок"
+msgstr "📜Purchase History"
+
+#: handlers/users/menu/profile.py:16
+msgid ""
+"Раздел *Профиль* \n"
+"Здесь вы можете просмотреть информацию о себе и историю ваших покупок"
+msgstr ""
+"Section *Profile* \n"
+"Here you can view information about yourself and your purchase history"
+
+#: handlers/users/menu/profile.py:29
+msgid ""
+"👤<b>Ваши данные:</b>\n"
+"\n"
+msgstr ""
+"👤<b>Your details:</b>\n"
+"\n"
+
+#: handlers/users/menu/profile.py:30
+msgid "Имя пользователя: "
+msgstr "Username: "
+
+#: handlers/users/menu/profile.py:31
+msgid "Имя: "
+msgstr "Name: "
+
+#: handlers/users/menu/profile.py:32
+msgid "Дата регистрации: "
+msgstr "Registration date: "
+
+#: handlers/users/menu/profile.py:39
+msgid "📦*Ваша история покупок:*"
+msgstr "📦*Your Purchase History:*"
+
+#: handlers/users/menu/profile.py:44
+msgid "🔴У вас нет совершенных покупок, или купленный вами продукт удалили"
+msgstr "🔴You don't have any purchases made, or the product you bought has been deleted"
+
+#: handlers/users/menu/profile.py:47
+msgid "📃<b>Товар:</b> "
+msgstr "📃<b>Product:</b> "
+
+#: handlers/users/menu/profile.py:48
+msgid "💰<b>Стоимость:</b> "
+msgstr "💰<b>Cost:</b> "
+
+#: handlers/users/menu/profile.py:49
+msgid "📅<b>Дата покупки:</b> "
+msgstr "📅<b>Purchase date:</b> "
+
+#: handlers/users/menu/settings.py:14
+msgid "Раздел *Настройки*\n"
+msgstr "Section *Settings*\n"
+
+#: handlers/users/menu/settings.py:18
+msgid "🏳️Изменить язык"
+msgstr "🏳️Change language"
+
+#: handlers/users/menu/settings.py:19
+msgid "🌟Стать администратором"
+msgstr "🌟Become an administrator"
+
+#: handlers/users/menu/settings.py:68
+msgid ""
+"<b>Добро пожаловать!</b>\n"
+"\n"
+"Это ReviewBot - бот, предназначенный для ознакомления с уровнем "
+"профессиональности разработки телеграм ботов. Бот реализован в виде "
+"простого интернет магазина с простыми товарами, которые действительно "
+"можно купить от 0 до 10 руб.\n"
+"\n"
+"<b>Внимание! Приобретение товаров нужно всего лишь для тестирования, "
+"никаких серьезных покупок и продаж здесь не существует!</b>\n"
+"\n"
+"Для ознакомления с дополнительной информацией перейдите в раздел "
+"<b>Помощь</b> из пункта меню, который появится после выбора языка.\n"
+"\n"
+"Данного бота создал @theGeekBeard. Информацию о нем можно узнать в "
+"описании его профиля, а так же написав ему в личные сообщения"
+msgstr ""
+"<b>Welcome!</b>\n"
+"\n"
+"This is a ReviewBot, a level review bot"
+"professionalism in the development of telegram bots. The bot is implemented in the form of "
+"a simple online store with simple products that really "
+"you can buy from 0 to 10 rubles\n"
+"\n"
+"<b>Attention! The purchase of goods is only for testing purposes, "
+"There are no serious buys and sells here!</b>\n"
+"\n"
+"For more information, go to the "
+"<b>Help</b> from the menu item that appears after selecting a language.\n"
+"\n"
+"This bot was created by @theGeekBeard. Information about it can be found in "
+"description of his profile, as well as by writing to him in private messages"
+
+#: handlers/users/menu/settings.py:83
+msgid ""
+"✅*Язык изменен*\n"
+"\n"
+"Нажмите /menu, чтобы изменить язык кнопок меню"
+msgstr ""
+"✅*Language changed*\n"
+"\n"
+"Press /menu to change menu button language"
+
+#: handlers/users/menu/settings.py:93
+msgid "🔴Вы уже администратор"
+msgstr "🔴You are already an administrator"
+
+#: handlers/users/menu/settings.py:95
+msgid ""
+"🔜...Ваша заявка отправлена администратору\n"
+"Бот сообщит, когда заявка будет одобрена"
+msgstr ""
+"🔜...Your request has been sent to the administrator\n"
+"The bot will notify you when the application is approved"
+
+#: utils/mailings.py:7
+msgid "<b>Новый товар!</b>"
+msgstr "<b>New item!</b>"
+
