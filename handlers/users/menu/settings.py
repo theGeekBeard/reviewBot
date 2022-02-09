@@ -32,11 +32,11 @@ async def change_language(call: Union[CallbackQuery, types.Message], isStart=Fal
     langBtn = InlineKeyboardMarkup(
         inline_keyboard=[
             [InlineKeyboardButton(text='🇷🇺Русский',
-                                  callback_data=make_lang_cd(language="ru", isStart=isStart))],
+                                  callback_data=make_lang_cd(language="RU", isStart=isStart))],
             [InlineKeyboardButton(text='🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿English',
-                                  callback_data=make_lang_cd(language="en", isStart=isStart))],
+                                  callback_data=make_lang_cd(language="EN", isStart=isStart))],
             [InlineKeyboardButton(text='🇺🇦Український',
-                                  callback_data=make_lang_cd(language="uk", isStart=isStart))]
+                                  callback_data=make_lang_cd(language="UK", isStart=isStart))]
         ]
     )
 
