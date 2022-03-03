@@ -1,0 +1,237 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-03-03 19:51+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/menu/one_time_pass.py:20
+#: handlers/users/menu/one_time_pass.py:35
+msgid "Автомобиля"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:21
+#: handlers/users/menu/one_time_pass.py:36
+msgid "Человека"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:25
+#: handlers/users/menu/one_time_pass.py:40
+msgid "Пропуск для:"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:50
+#: handlers/users/menu/one_time_pass.py:68
+#: handlers/users/menu/one_time_pass.py:110
+#: handlers/users/menu/one_time_pass.py:168
+#: handlers/users/menu/one_time_pass.py:253
+#: handlers/users/menu/one_time_pass.py:331
+msgid "Подсказка"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:54
+msgid "Введите номер авто"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:72
+msgid "Введите имя и фамилию"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:104
+#: handlers/users/menu/one_time_pass.py:162
+#: handlers/users/menu/one_time_pass.py:247
+#: handlers/users/menu/one_time_pass.py:325
+msgid "Пример - Машина мамы"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:106
+#: handlers/users/menu/one_time_pass.py:164
+#: handlers/users/menu/one_time_pass.py:249
+#: handlers/users/menu/one_time_pass.py:327
+msgid "Пример - Строитель"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:112
+#: handlers/users/menu/one_time_pass.py:170
+#: handlers/users/menu/one_time_pass.py:255
+#: handlers/users/menu/one_time_pass.py:333
+msgid "Пропустить"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:116
+#: handlers/users/menu/one_time_pass.py:174
+#: handlers/users/menu/one_time_pass.py:268
+#: handlers/users/menu/one_time_pass.py:337
+msgid "Введите название для пропуска"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:123
+msgid "Временный"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:124
+msgid "Постоянный"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:125
+msgid "Разовый"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:129
+msgid "Тип пропуска:"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:183
+#: handlers/users/menu/one_time_pass.py:293
+msgid "Сегодня"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:186
+#: handlers/users/menu/one_time_pass.py:280
+#: handlers/users/menu/one_time_pass.py:296
+msgid "Завтра"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:189
+#: handlers/users/menu/one_time_pass.py:283
+#: handlers/users/menu/one_time_pass.py:299
+msgid "Другая дата"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:193
+#: handlers/users/menu/one_time_pass.py:198
+msgid "Выберите дату начала"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:208
+#: handlers/users/menu/one_time_pass.py:240
+#: handlers/users/menu/one_time_pass.py:308
+msgid "Выберите дату окончания"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:222
+#: handlers/users/menu/one_time_pass.py:244
+msgid "Дата не может быть прошедшей"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:265
+msgid "Пропуск перевыпущен на {date}"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:358
+#: handlers/users/menu/one_time_pass.py:392
+msgid "на сегодня"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:360
+#: handlers/users/menu/one_time_pass.py:394
+msgid "на завтра"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:362
+#: handlers/users/menu/one_time_pass.py:396
+msgid "с {start_date} по {end_date}"
+msgstr ""
+
+#: handlers/users/menu/one_time_pass.py:366
+#: handlers/users/menu/one_time_pass.py:400
+msgid ""
+"Создан пропуск\n"
+"{holder_name}\n"
+"{text}"
+msgstr ""
+
+#: handlers/users/menu/other.py:11
+msgid "Выпустить пропуск"
+msgstr ""
+
+#: handlers/users/menu/other.py:12
+msgid "Список пропусков"
+msgstr ""
+
+#: handlers/users/menu/other.py:16
+msgid "Другое"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:33
+msgid ""
+"Другое\n"
+"----------------------------------------\n"
+"Список пропусков"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:36
+msgid "У вас нет пропусков на данный момент"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:57
+msgid "Информация"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:58 handlers/users/menu/pass_list.py:170
+msgid "Удалить"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:59
+msgid "Перевыпустить"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:64
+msgid ""
+"Список пропусков\n"
+"----------------------------------------\n"
+"{holder_name}"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:92
+msgid "Пропуск перевыпущен на сегодня"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:99
+msgid "Пропуск перевыпущен на завтра"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:129
+msgid "сегодня"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:131
+msgid "завтра"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:133
+msgid "c {start_date} до {end_date}"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:143
+msgid ""
+"Пропуск {title}\n"
+"Выдан для: {holder_name}\n"
+"Срок действия {date}\n"
+"Статус: {status}"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:165
+msgid "Подтвердить удаление"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:166
+msgid "Отмена"
+msgstr ""
+
+#: handlers/users/menu/pass_list.py:193
+msgid "Пропуск {title} удален"
+msgstr ""
+
